@@ -1,6 +1,6 @@
 # 国内免费 ChatGPT 镜像网站：支持 GPT-4 和 4o【2025年5月更新】 
 
-> **更新：2025/05/10**   
+> **更新：2025/05/16**   
 > **作者：chatgpt-site-cn** 
 
 国内免费体验的 **ChatGPT镜像网站**，无需翻墙，即可在国内使用ChatGPT~
@@ -15,9 +15,9 @@
 
 ## 推荐的ChatGPT镜像网站
 
-- [chat.yixiaai.com](https://chat.yixiaai.com/) - **ChatGPT中文版**，支持GPT-4、4o以及o1，提供AI绘画功能，扫码即可使用。
-- [chat.lify.vip](https://www.yixiaai.com/) - **ChatGPT镜像网站**，提供GPT-4、4o以及o1，支持AI文件、AI PPT、AI助手、AI插件功能，及思维导图。
-- [guide1.lanjing.ai](https://guide1.lanjing.ai/) - 支持GPT-4、4o，提供AI绘画（Midjourney和Dall·E）功能。
+- [chat.yixiaai.com](https://xsimplechat.com/) - **ChatGPT中文版**，支持GPT-4、4o以及o1，提供AI绘画功能，扫码即可使用。
+- [chat.lify.vip](https://chat.lanjing.pro/) - **ChatGPT镜像网站**，提供GPT-4、4o以及o1，支持AI文件、AI PPT、AI助手、AI插件功能，及思维导图。
+- [guide1.lanjing.ai](https://lanjing.pro/) - 支持GPT-4、4o，提供AI绘画（Midjourney和Dall·E）功能。
 - [ai.lansejingyu.com](https://ai.lansejingyu.com/) - ChatGPT-4镜像，支持GPT-4、4o，使用简单便捷。
 - [lanjing.ai](https://lanjing.ai/) - 免费ChatGPT，支持GPT-4、4o和4o mini。
 
@@ -27,7 +27,7 @@
 
 ### 第一步：选择合适的镜像网站
 
-从推荐的ChatGPT镜像网站列表中选择一个网站。例如，您可以访问[chat.yixiaai.com](https://chat.yixiaai.com/)。每个网站可能提供不同的功能和服务，您可以根据自己的需求进行选择。
+从推荐的ChatGPT镜像网站列表中选择一个网站。例如，您可以访问[chat.yixiaai.com](https://xsimplechat.com/)。每个网站可能提供不同的功能和服务，您可以根据自己的需求进行选择。
 
 ### 第二步：访问网站主页
 
