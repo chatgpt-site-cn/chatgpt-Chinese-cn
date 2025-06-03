@@ -1,6 +1,6 @@
-# 国内免费 ChatGPT 镜像网站：支持 GPT-4 和 4o【2025年5月更新】 
+# 国内免费 ChatGPT 镜像网站：支持 GPT-4 和 4o【2025年6月更新】 
 
-> **更新：2025/05/27**   
+> **更新：2025/06/04**   
 > **作者：chatgpt-site-cn** 
 
 国内免费体验的 **ChatGPT镜像网站**，无需翻墙，即可在国内使用ChatGPT~
@@ -19,7 +19,7 @@
 - [chat.lify.vip](https://chat.lanjing.pro/) - **ChatGPT镜像网站**，提供GPT-4、4o以及o1，支持AI文件、AI PPT、AI助手、AI插件功能，及思维导图。
 - [guide1.lanjing.ai](https://lanjing.pro/) - 支持GPT-4、4o，提供AI绘画（Midjourney和Dall·E）功能。
 - [ai.lansejingyu.com](https://ai.lansejingyu.com/) - ChatGPT-4镜像，支持GPT-4、4o，使用简单便捷。
-- [lanjing.ai](https://lanjing.ai/) - 免费ChatGPT，支持GPT-4、4o和4o mini。
+- [lanjing.ai](https://lanjing.pro/) - 免费ChatGPT，支持GPT-4、4o和4o mini。
 
 ## ChatGPT镜像网站使用指南
 
