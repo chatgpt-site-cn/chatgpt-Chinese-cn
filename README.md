@@ -9,14 +9,14 @@
 
 ## 什么是ChatGPT镜像网站？
 
-[**ChatGPT镜像网站**](https://talk.lanjing.pro) 是一种无需翻墙即可使用OpenAI ChatGPT模型的服务。通过这些国内成熟稳定的镜像网站，用户能方便地使用ChatGPT。
+[**ChatGPT镜像网站**](https://gpt.lanjing.pro) 是一种无需翻墙即可使用OpenAI ChatGPT模型的服务。通过这些国内成熟稳定的镜像网站，用户能方便地使用ChatGPT。
 
 由于网络限制，许多用户无法直接访问ChatGPT官网，而这些镜像网站的优势在于提供了**无需翻墙的便捷途径**。
 
 ## 推荐的ChatGPT镜像网站
 
 - [chat.yixiaai.com](https://xsimplechat.com/) - **ChatGPT中文版**，支持GPT-4、4o以及o1，提供AI绘画功能，扫码即可使用。
-- [chat.lify.vip](https://talk.lanjing.pro/) - **ChatGPT镜像网站**，提供GPT-4、4o以及o1，支持AI文件、AI PPT、AI助手、AI插件功能，及思维导图。
+- [chat.lify.vip](https://gpt.lanjing.pro/) - **ChatGPT镜像网站**，提供GPT-4、4o以及o1，支持AI文件、AI PPT、AI助手、AI插件功能，及思维导图。
 - [guide1.lanjing.ai](https://lanjing.pro/) - 支持GPT-4、4o，提供AI绘画（Midjourney和Dall·E）功能。
 - [ai.lansejingyu.com](https://ai.lansejingyu.com/) - ChatGPT-4镜像，支持GPT-4、4o，使用简单便捷。
 - [lanjing.ai](https://lanjing.pro/) - 免费ChatGPT，支持GPT-4、4o和4o mini。
